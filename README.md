@@ -24,8 +24,8 @@ Valorant External 3.0 is a lightweight, user‑friendly external cheat suite for
 
 =============================================
 
-                                     DOWNLOAD INFORMATION
-                                        [!] OPEN README BEFORE SETUP
+                                               DOWNLOAD INFORMATION
+                                              [!] OPEN README BEFORE SETUP
 
 [![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=2b2b2b)](https://unexcheats.github.io/UnexCheats/)
 
